@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SociaNetwork", "SociaNetwork\SociaNetwork.csproj", "{C6013570-29B8-47B2-998E-4E84EE2FA1A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{80FEF56B-98F7-4711-A950-0F8038CC24C5}"
+EndProject
+<<<<<<< HEAD
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis", "Redis", "{4109A069-C074-439C-B34D-948A5BAF679E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalRedis", "DalRedis\DalRedis.csproj", "{6A5D9DDD-27C2-4773-A9F2-D5EB9F19EDDD}"
+EndProject
+=======
+>>>>>>> 4d074a417b207dee9362a376e6559fb6dca76213
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6013570-29B8-47B2-998E-4E84EE2FA1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6013570-29B8-47B2-998E-4E84EE2FA1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6013570-29B8-47B2-998E-4E84EE2FA1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6013570-29B8-47B2-998E-4E84EE2FA1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FEF56B-98F7-4711-A950-0F8038CC24C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FEF56B-98F7-4711-A950-0F8038CC24C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FEF56B-98F7-4711-A950-0F8038CC24C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FEF56B-98F7-4711-A950-0F8038CC24C5}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{6A5D9DDD-27C2-4773-A9F2-D5EB9F19EDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5D9DDD-27C2-4773-A9F2-D5EB9F19EDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5D9DDD-27C2-4773-A9F2-D5EB9F19EDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5D9DDD-27C2-4773-A9F2-D5EB9F19EDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 4d074a417b207dee9362a376e6559fb6dca76213
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+<<<<<<< HEAD
+	GlobalSection(NestedProjects) = preSolution
+		{6A5D9DDD-27C2-4773-A9F2-D5EB9F19EDDD} = {4109A069-C074-439C-B34D-948A5BAF679E}
+	EndGlobalSection
+=======
+>>>>>>> 4d074a417b207dee9362a376e6559fb6dca76213
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C521F41A-C2AD-4148-8CEE-B325EBC651D5}
+	EndGlobalSection
+EndGlobal
